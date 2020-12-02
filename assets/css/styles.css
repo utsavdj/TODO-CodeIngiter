@@ -1,0 +1,26 @@
+.date{
+    width:200px;
+}
+
+.container{
+    background: url("../images/generic-bg.jpg");
+    padding: 40px;
+}
+
+#dashboard-side{
+    background: #f2f2f2;
+    min-height: 500px;
+    padding: 15px;
+}
+
+#dashboard-main{
+    background: #f2f2f2;
+    min-height: 500px;
+    padding: 15px;
+}
+
+/*Generic Stuff*/
+
+.hide-a{
+    display: none;
+}
