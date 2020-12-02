@@ -2,7 +2,7 @@
 TODO App using PHP-CodeIngiter
 ###################
 
-This app uses MySQL and its SQL file is in the SQL folder. The database and file path settings sholuld be modified as required in the config, database and htaccess files. The credentials of a test user is username: user and password: 123.
+This app uses MySQL and its SQL file is in the SQL folder. The database and file path settings sholuld be modified as required in the config, database and htaccess files. The credentials of a test user is username: user and password: 1234.
 
 ###################
 What is CodeIgniter
